@@ -10,3 +10,5 @@
 - [Adding two double digit Numbers](https://github.com/Fahadh4444/Assembly-Language-Programming/blob/main/NASM/NITC/Practice%20set%2001/06/Adding_twoDigitNumber.asm)
 - [Finding Key Stroke of Alphabet](https://github.com/Fahadh4444/Assembly-Language-Programming/blob/main/NASM/NITC/Practice%20set%2001/07/Alplabet_Conversion.asm)
 - [Finding Odd or Even Numbers](https://github.com/Fahadh4444/Assembly-Language-Programming/blob/main/NASM/NITC/Practice%20set%2001/08/Type_of_number.asm)
+
+### For all practice sets check above -> "NITC" Repo
